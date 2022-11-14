@@ -2,5 +2,5 @@
 <div align="center">
   <hr />
   <h6>The Sciola framework is open-sourced software licensed under the <a href="https://github.com/sciola-framework/sciola/blob/main/LICENSE.md">MIT license.</a></h6>
-  <h6>Author: <a href="https://sciola-framework.github.io/leandro-sciola">Leandro Sciola</a></h6>
+  <h6>Author: <a href="https://github.com/Leandro-Sciola">Leandro Sciola</a></h6>
 </div>
